@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daniel Bearup / Site Title"
+title                    : "Daniel Bearup / Life on Maths"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
